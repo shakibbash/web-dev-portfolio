@@ -246,6 +246,9 @@ footer textarea {
         flex-direction: column;
         padding: 20px;
     }
+    .banner{
+        margin: 20px;
+    }
     .footer-column{
         width: 100%;
     }
@@ -254,5 +257,18 @@ footer textarea {
     }
     .about-items{
         flex-direction: column;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .header{
+        background-image: none;
+    }
+    .banner-img-profile{
+        width: 100%;
+    }
+    nav,nav>ul{
+        flex-direction: column;
+        gap: 20px;
     }
 }
