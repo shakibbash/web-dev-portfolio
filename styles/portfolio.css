@@ -231,9 +231,7 @@ footer textarea {
 }
 
 /* responsive media */
-.hide{
-    display: none;
-}
+
 @media screen and (max-width:576px){
     .skill-container{
         flex-direction: column;
